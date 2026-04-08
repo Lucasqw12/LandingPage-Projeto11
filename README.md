@@ -1,37 +1,32 @@
-#  Loading Page
+🌐 Landing Page
 
-Uma **Loading Page** desenvolvida apenas com **HTML e CSS**, com animação de carregamento moderna e layout centralizado.
-Este projeto simula uma tela de carregamento que pode ser utilizada antes do carregamento de páginas, sistemas ou aplicações web.
+Uma Landing Page moderna desenvolvida apenas com HTML e CSS, focada em layout limpo, organização de conteúdo e design responsivo.
+O projeto foi criado para apresentar informações de forma clara e objetiva, ideal para divulgação de serviços, produtos ou portfólio.
 
+💡 Sobre o Projeto
 
----
-
-## 🚀 Tecnologias Utilizadas
-
-* HTML5
-* CSS3
-* Flexbox
-* CSS Animations
+Esta Landing Page possui uma estrutura simples e eficiente, com seções bem definidas e um visual moderno.
+O layout foi construído utilizando apenas HTML e CSS, priorizando boas práticas e código organizado.
 
 
----
 
-## 📂 Estrutura do Projeto
+🛠️ Tecnologias Utilizadas
+HTML5
+CSS3
+Flexbox
+Grid Layout
+Responsividade
 
 
-LoadingPage/
-│
+📂 Estrutura do Projeto
+LandingPage/
 ├── index.html
 ├── style.css
 └── img/
-    └── preview.png
 
+👨‍💻 Autor
 
----
-
-## 👨‍💻 Autor
-
-**Lucas M Medeiros**
+Lucas M Medeiros
 Desenvolvedor focado em interfaces modernas e soluções eficientes 🚀
 
 
